@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 #name-color{
     color: deeppink;
     font-weight: bold;
