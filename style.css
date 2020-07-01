@@ -1,0 +1,82 @@
+#name-color{
+    color: deeppink;
+    font-weight: bold;
+}
+h1{
+    font-weight: 500;
+    font-size: 100px;
+}
+p{
+    font-size: 50px;
+}
+.half-width{
+    width: 30%;
+    padding-left: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5%;
+    float: left;
+}
+.half-width img{
+    height: 100%;
+}
+section{
+    height: 2000px;
+    margin-bottom: 100px;
+}
+.first-section{
+    background-image: url("images/header-bg.png");
+}
+
+.second-section{
+    background-image: url("images/biography-bg.png");
+}
+#image-size{
+    width: 931px;
+}
+.button-shape{
+    font-size: 40px;
+    text-decoration: none;
+    background-image: linear-gradient(40deg,deeppink,tomato);
+    padding: 30px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    text-align: center;
+}
+.image-setup{
+    width: 400px;
+}
+.client-saying{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+}
+.bold-header{
+    font-weight: bold;
+}
+.client-saying h2{
+    font-size: 70px;
+}
+.client-saying h3{
+    font-size: 50px;
+    font-weight: 500;
+    color: darkgray;
+}
+.background-p{
+    color: white;
+    padding: 20px 20px;
+    margin-top: 150px;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-image: linear-gradient(45deg,rgb(228, 100, 122),deeppink);
+    border-radius: 35px;
+}
+.font-height{
+    font-size: 100px;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+}
