@@ -19,6 +19,9 @@ a:hover{
     color: snow;
     background-image: linear-gradient(90deg,salmon,orangered);
 }
+a:visited{
+    color: linen;
+}
 .half-width{
     width: 30%;
     padding-left: 10%;
@@ -89,4 +92,75 @@ section{
 }
 footer{
     text-align: center;
+}
+.check-box{
+    background-color: linen;
+    height: 500px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.check-box div{
+    height: 100px;
+    width: 100px;  
+}
+.first{
+    background-color: black;
+}
+.second{
+    background-color: gray;
+    position: relative;
+    left: 100px;
+}
+.third{
+    background-color: black;
+    position: relative;
+    left: 100px;
+}
+.fourth{
+    background-color: gray;
+    position: relative;
+    left: 200px;
+}
+.fifth{
+    background-color: black;
+    position: relative;
+    left: 200px;
+
+}
+.sixth{
+    background-color: gray;
+    position: relative;
+    left: 300px;
+}
+.seventh{
+    background-color: black;
+    position: relative;
+    left: 300px;
+}
+.eighth{
+    background-color: gray;
+    position: relative;
+    left: 400px;
+}
+.tenth{
+    background-color: black;
+    position: relative;
+    left: 400px;
+}
+.elebenth{
+    background-color: gray;
+    position: relative;
+    left: 500px;
+}
+.paragraph{
+    position: relative;
+    left: 800px;
+    margin-top: 150px;
+    font-size: 300px;
+    font-weight: 500;
+    color: mediumvioletred;
+}
+.allign{
+    float: left;
+    height: 500px;
 }
