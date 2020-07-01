@@ -1,5 +1,7 @@
 body{
     margin: 0;
+    font-family: 'Fjalla One', sans-serif;
+    color: black;
 }
 #name-color{
     color: deeppink;
